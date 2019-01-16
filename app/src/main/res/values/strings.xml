@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndSDKIntegartionApp</string>
+    <string-array name="array_technology">
+        <item>Banner</item>
+        <item>Interstitial</item>
+        <item>Rewarded Ad</item>
+    </string-array>
+</resources>
