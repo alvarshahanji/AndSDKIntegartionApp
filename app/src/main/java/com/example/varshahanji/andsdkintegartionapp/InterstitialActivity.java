@@ -57,7 +57,7 @@ public class InterstitialActivity extends Activity {
                 selectedId = radioGroup.getCheckedRadioButtonId();
 
                 System.out.println( "Interstitial loading..." );
-                showButton.setEnabled( false );
+                showButton.setEnabled( true );
                 String zoneId = "";
                 if(selectedId == zone1.getId())
                     zoneId = INTERSTITIALZONE1;

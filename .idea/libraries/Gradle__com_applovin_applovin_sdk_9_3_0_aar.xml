@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin:applovin-sdk:9.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.3.0.aar/a6c7dbcf172742c2b62b3563e3488e14/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.3.0.aar/a6c7dbcf172742c2b62b3563e3488e14/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin/applovin-sdk/9.3.0/e695fd4a60872ab250356967b3bdc4d0ca6a0b97/applovin-sdk-9.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
